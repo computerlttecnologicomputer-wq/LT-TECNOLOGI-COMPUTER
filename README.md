@@ -1,9 +1,7 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LT TECNOLOGI COMPUTER - Tienda de tecnologia</title>
   <meta name="description" content="LT TECNOLOGI COMPUTER - Tecnologia de la mejor calidad, precios accesibles y envío a toda la  Argentina.">
   <style>
     body {
