@@ -1,7 +1,9 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LT TECNOLOGI COMPUTER - Tienda de tecnologia</title>
   <meta name="description" content="LT TECNOLOGI COMPUTER - Tecnologia de la mejor calidad, precios accesibles y envío a toda la  Argentina.">
   <style>
     body {
@@ -74,13 +76,13 @@
     }
     .whatsapp-float:hover { background-color: #20b955; }
 
-  /* 🌙 MODO OSCURO */
+    /* 🌙 MODO OSCURO */
     body.dark { background: #111; color: #f1f1f1; }
     body.dark .card { background: #222; color: #f1f1f1; }
     body.dark .opiniones, body.dark .faq, body.dark .about, body.dark .metodos { background: #1a1a1a; }
     body.dark footer { background: #111; color: white; }
 
-   /* 🛒 Carrito */
+    /* 🛒 Carrito */
     .carrito-panel {
       position: fixed; top: 0; right: -100%;
       width: 320px; height: 100%;
@@ -101,7 +103,7 @@
 </head>
 <body>
   <header>
-    <img src="logo.png" alt="Logo LT TECNOLOGY COMPUTER">
+    <img src="c:\Users\Lauti\Documents\LT TECNOLI COMPUTER\IMG\logo.png" alt="Logo LT TECNOLOGY COMPUTER">
     <nav>
       <a href="#inicio">Inicio</a>
       <a href="#productos">Productos</a>
@@ -530,3 +532,4 @@ SE ENTREGA CON:
       }
     });
   </script>
+
